@@ -17,8 +17,9 @@
 >Задача №2.
 Как решала(-а): краткое описание решения (автореферат)
 
-https://github.com/Nikolay-An/-/blob/main/OnlineCinema_part1.xlsx
-Ссылка на проект (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+Ссылка на проект (файл большой, пришлось разделить на две части из-за политики Gethab):  
+[OnlineCinema_part1.xlsx](https://github.com/Nikolay-An/-/blob/main/OnlineCinema_part1.xlsx)  
+[OnlineCinema_part2.xlsx](https://github.com/Nikolay-An/-/blob/main/OnlineCinema_part2.xlsx)  
 
 Выводы (итоги):
 
