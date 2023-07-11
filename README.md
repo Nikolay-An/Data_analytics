@@ -19,7 +19,7 @@
 * Задача №2. Выбрать оптимальный вариант расчета Retention.  
 * Задача №3. Собрать визуализации основных бизнес-показателей.
 
->Ссылка на проект (файл большой, пришлось разделить на две части из-за политики Gethab):  
+>Ссылка на проект (файл большой, пришлось разделить на две части из-за политики Github):  
 >[OnlineCinema_part1.xlsx](https://github.com/Nikolay-An/-/blob/main/OnlineCinema_part1.xlsx)  
 >[OnlineCinema_part2.xlsx](https://github.com/Nikolay-An/-/blob/main/OnlineCinema_part2.xlsx)  
 
