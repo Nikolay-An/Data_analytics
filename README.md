@@ -46,9 +46,9 @@
 * Задача №1 сколько всего уроков было на балансе всех учеников за каждый календарный день.  
 * Задача №2 как это количество менялось под влиянием транзакций (оплат, начислений, корректирующих списаний) и уроков (списаний с баланса по мере прохождения уроков)
   
-Код решения:  
-
-![Sql](https://github.com/Nikolay-An/-/blob/main/Sql.jpg)
+>Код решения:    
+>[SQL.sql](https://github.com/Nikolay-An/Data_analytics/blob/main/SQL.sql)  
+>![Sql](https://github.com/Nikolay-An/-/blob/main/Sql.jpg)  
 
 
 
