@@ -71,7 +71,8 @@
 ✅ Задача №3. Собрать калькулятор, согласно потенциальным исходам
 
 >Ссылка на проект:  
->[OnlineCinema_part1.xlsx](https://github.com/Nikolay-An/-/blob/main/OnlineCinema_part1.xlsx)    
+>[Калькулятор.xlsx](https://github.com/Nikolay-An/-/blob/main/Калькулятор.xlsx)    
+>[Ритейл.ipynb](https://github.com/Nikolay-An/-/blob/main/Ритейл.ipynb)
 
 <h4>Выводы (итоги):</h4>  
 
